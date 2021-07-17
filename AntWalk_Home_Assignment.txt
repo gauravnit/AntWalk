@@ -1,0 +1,10 @@
+Following are my observation:
+
+1. People who are geographically located to East are more likely to be found exited.
+2. People who are geographically located west are more likely to stay.
+3. Gender wise female are more likely to exit while male choose to stay.
+4. People having more number of product choose to exit.
+5. People have Number of product as two likely to stay.
+6. People who are not active member are more likely to stay.
+
+We can conclude male population, who are geographically from west, who possess two or lesser number of product, who are continously checking their portfolio and are active member are likely to invest for longer time.
