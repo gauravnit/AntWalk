@@ -7,4 +7,6 @@ Following are my observation:
 5. People have Number of product as two likely to stay.
 6. People who are not active member are more likely to stay.
 
-We can conclude male population, who are geographically from west, who possess two or lesser number of product, who are continously checking their portfolio and are active member are likely to invest for longer time.
+We can conclude male population, who are geographically from west, 
+who possess two or lesser number of product, who are continously 
+checking their portfolio and are active member are likely to invest for longer time.
